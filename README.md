@@ -21,6 +21,15 @@ MSS.xlsx (Section 4.1, page 10): This Excel spreadsheet visualises the keyword s
      **Note that blank yellow lines represent duplicates, which have been omitted, apart from the Terminology Sampling sheet, where yellow highlighting indicates that the source has been selected for thematic analysis.
 
 
-Survey.xlsx (Section 5, page 13): These are the aggregated survey results from 39 respondents.
+Survey.xlsx (Section 5, page 13): These are the aggregated survey results from 39 respondents:
+
+Demographics: This presents the country, language, and experience breakdown of the participants.
+
+Collaboration: This quantifies the level of national and international collaboration, as well as awareness of various sources of MSS research.
+
+Keywords: This measures the use of keywords in identifying research, and the preferences of MSS researchers to two types of keywords: 'Support' Keywords and Additional Keywords.
+
+Terminology: This describes participants' attitudes towards the level of standardisation in MSS terminology, and their use or awareness of various terms under the themes identifed in the Thematic Analysis in Section 4.2: Physical Centres, Personnel, Methods, Research Topics, Tools/Techniques.
+
 
 Terminology.docx (Section 4.2, page 11): This document shows the themes and phrases extracted from the thematic analysis in Section 4.2.
