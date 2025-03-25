@@ -10,11 +10,11 @@ MSS.xlsx (Section 4.1, page 10): This Excel spreadsheet visualises the keyword s
      
      *Mullen: All keywords from reference list of 'A scoping literature review of the impact and evaluation of mathematics and statistics support in higher education’ - Claire Mullen, Emma Howard & Anthony Cronin (2024)
                
-    *Journals + Conferences: All keywords from sources outlined in Section 4.1., pages 8 and 9
+     *Journals + Conferences: All keywords from sources outlined in Section 4.1., pages 8 and 9
     
-    *Database: All keywords from database search using the search string in Appendix C, p. C.1
+     *Database: All keywords from database search using the search string in Appendix C, p. C.1
     
-    *Summary: The results from the keyword search
+     *Summary: The results from the keyword search
     
      *Terminology Sampling: The sources used to perform thematic analysis, using a random sample of 2 per country
      
