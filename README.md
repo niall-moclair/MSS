@@ -18,7 +18,7 @@ MSS.xlsx (Section 4.1, page 10): This Excel spreadsheet visualises the keyword s
     
      *Terminology Sampling: The sources used to perform thematic analysis, using a random sample of 2 per country
 
-**Note that blank yellow lines represent duplicates, which have been omitted, apart from the Terminology Sampling sheet, where yellow highlighting indicates that the source has been selected for thematic analysis.
+*Note that blank yellow lines represent duplicates, which have been omitted, apart from the Terminology Sampling sheet, where yellow highlighting indicates that the source has been selected for thematic analysis.
 
 
 Survey.xlsx (Section 5, page 13): These are the aggregated survey results from 39 respondents.
